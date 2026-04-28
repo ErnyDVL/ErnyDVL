@@ -3,7 +3,7 @@
 <img src="[https://capsule-render.vercel.app/api?type=wave&amp;color=0:0d1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=ErnyDV&amp;fontSize=80&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%26%20Graphic%20Designer&amp;descAlignY=60&amp;descColor=8b949e](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=header)" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=9+years+of+design+experience;Full-Stack+Developer+%26+Graphic+Designer;Computer+Science+Student;FiveM+Developer+%F0%9F%9A%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=9+years+of+design+experience;Full-Stack+Developer+%26+Graphic+Designer;Computer+Science+Student;)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 👋 Hi, I'm ErnyDV
 
-Full-Stack Developer & Graphic Designer with 9 years of design experience also a Computer Science student. My coding journey started with C# while exploring game development, followed by strengthening CS fundamentals through Harvard's CS50, and my favorite by far is web development which I picked up through The Odin Project. I also occasionally do FiveM Development for fun.
+Full-Stack Developer & Graphic Designer with 9 years of design experience also a Computer Science student. My coding journey started with C# while exploring game development, followed by strengthening CS fundamentals through Harvard's CS50, and my favorite by far is web development which I picked up through The Odin Project.
 
 ---
 
@@ -36,6 +36,7 @@ Full-Stack Developer & Graphic Designer with 9 years of design experience also a
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -55,32 +56,6 @@ Full-Stack Developer & Graphic Designer with 9 years of design experience also a
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-### 🚓 FiveM Development
-
-<table>
-  <tr>
-    <td>⚙️ Custom scripting with Lua</td>
-    <td>🖼️ NUI interfaces (JavaScript)</td>
-    <td>🗄️ SQL database integration</td>
-  </tr>
-</table>
-
----
-
-## 🌱 Currently Learning
-
-**Tooling:**
-
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-## 🎯 Next Up
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
